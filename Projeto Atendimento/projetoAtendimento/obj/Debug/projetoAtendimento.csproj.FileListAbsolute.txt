@@ -1,0 +1,21 @@
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\bin\Debug\projetoAtendimento.exe.config
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\bin\Debug\projetoAtendimento.exe
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\bin\Debug\projetoAtendimento.pdb
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.csprojAssemblyReference.cache
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.Form1.resources
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.Properties.Resources.resources
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.csproj.GenerateResource.cache
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.exe
+C:\Users\Stefany\Desktop\projetoAtendimento\projetoAtendimento\obj\Debug\projetoAtendimento.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\projetoAtendimento\bin\Debug\projetoAtendimento.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\projetoAtendimento\bin\Debug\projetoAtendimento.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\projetoAtendimento\bin\Debug\projetoAtendimento.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\projetoAtendimento\obj\Debug\projetoAtendimento.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\projetoAtendimento\obj\Debug\projetoAtendimento.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\projetoAtendimento\obj\Debug\projetoAtendimento.Form1.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\projetoAtendimento\obj\Debug\projetoAtendimento.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\projetoAtendimento\obj\Debug\projetoAtendimento.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\projetoAtendimento\obj\Debug\projetoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\projetoAtendimento\obj\Debug\projetoAtendimento.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\projetoAtendimento\obj\Debug\projetoAtendimento.pdb
