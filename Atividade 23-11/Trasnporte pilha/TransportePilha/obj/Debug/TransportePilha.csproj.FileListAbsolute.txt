@@ -1,0 +1,15 @@
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\bin\Debug\TransportePilha.exe.config
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\bin\Debug\TransportePilha.exe
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\bin\Debug\TransportePilha.pdb
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\obj\Debug\TransportePilha.csprojAssemblyReference.cache
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\obj\Debug\TransportePilha.csproj.CoreCompileInputs.cache
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\obj\Debug\TransportePilha.exe
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\obj\Debug\TransportePilha.pdb
+C:\Users\pedro\OneDrive\Documentos\estrutura\Atividade 23-11\Trasnporte pilha\TransportePilha\bin\Debug\TransportePilha.exe.config
+C:\Users\pedro\OneDrive\Documentos\estrutura\Atividade 23-11\Trasnporte pilha\TransportePilha\bin\Debug\TransportePilha.exe
+C:\Users\pedro\OneDrive\Documentos\estrutura\Atividade 23-11\Trasnporte pilha\TransportePilha\bin\Debug\TransportePilha.pdb
+C:\Users\pedro\OneDrive\Documentos\estrutura\Atividade 23-11\Trasnporte pilha\TransportePilha\obj\Debug\TransportePilha.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\estrutura\Atividade 23-11\Trasnporte pilha\TransportePilha\obj\Debug\TransportePilha.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Documentos\estrutura\Atividade 23-11\Trasnporte pilha\TransportePilha\obj\Debug\TransportePilha.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\estrutura\Atividade 23-11\Trasnporte pilha\TransportePilha\obj\Debug\TransportePilha.exe
+C:\Users\pedro\OneDrive\Documentos\estrutura\Atividade 23-11\Trasnporte pilha\TransportePilha\obj\Debug\TransportePilha.pdb
